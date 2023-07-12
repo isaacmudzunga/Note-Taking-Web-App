@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('./lebo.jpg');
+    background-image: url('imgs/lebo.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -8,4 +8,9 @@ body {
 
 button {
     background-color: moccasin;
+}
+.popup-box{
+    position: relative;
+    margin: auto;
+    width: 50%;
 }
